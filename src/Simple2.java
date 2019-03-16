@@ -9,6 +9,7 @@ public class Simple2 extends JFrame {
         add(b);
         setSize(400,500);
         setLayout(null);
+        setVisible(true);
     }
 
     public static void main(String[] args){
