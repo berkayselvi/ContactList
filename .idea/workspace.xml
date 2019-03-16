@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="643ab151-95d4-47aa-b9bc-fd3f4dc3fe90" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Simple2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Simple2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Simple2.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -35,12 +35,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Simple2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
-              <folding>
-                <element signature="e#328#329#0" expanded="true" />
-                <element signature="e#346#347#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="170">
+              <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -86,24 +82,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="ContactList-Repo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ContactList-Repo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ContactList-Repo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ContactList-Repo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -151,17 +132,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="simple2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="simple2" />
-      <module name="ContactList" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+    <list>
+      <item itemvalue="Application.FirstSwingExample" />
+      <item itemvalue="Application.Simple" />
+      <item itemvalue="Application.Simple2" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.Simple2" />
-        <item itemvalue="Application.simple2" />
         <item itemvalue="Application.Simple" />
         <item itemvalue="Application.FirstSwingExample" />
       </list>
@@ -183,6 +161,7 @@
       <workItem from="1552751364341" duration="893000" />
       <workItem from="1552755036266" duration="2554000" />
       <workItem from="1552759201332" duration="281000" />
+      <workItem from="1552760390287" duration="295000" />
     </task>
     <task id="LOCAL-00001" summary="committest1">
       <created>1552757479522</created>
@@ -195,13 +174,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8428000" />
+    <option name="totallyTimeSpent" value="8723000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18763326" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18993288" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -211,15 +190,15 @@
       <window_info id="JavaEE:App" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4978678" weight="0.32976446" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49731544" visible="true" weight="0.3286119" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49840087" weight="0.32976446" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5010661" side_tool="true" visible="true" weight="0.32976446" />
-      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.4989339" visible="true" weight="0.32976446" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5026846" side_tool="true" visible="true" weight="0.3286119" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.4989339" weight="0.32976446" />
       <window_info anchor="bottom" id="Database Changes" order="11" />
       <window_info anchor="bottom" id="Version Control" order="12" sideWeight="0.4989339" weight="0.32976446" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -257,12 +236,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Simple2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
-          <folding>
-            <element signature="e#328#329#0" expanded="true" />
-            <element signature="e#346#347#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="170">
+          <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
         </state>
       </provider>
     </entry>
