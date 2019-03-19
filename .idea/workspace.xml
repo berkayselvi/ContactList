@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="643ab151-95d4-47aa-b9bc-fd3f4dc3fe90" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/ButtonExample_2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ButtonExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ButtonExample.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -41,11 +41,25 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ButtonExample.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+            <state relative-caret-position="136">
+              <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ButtonExample_2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" column="26" lean-forward="true" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#441#442#0" expanded="true" />
+                <element signature="e#494#495#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -70,6 +84,7 @@
         <option value="$PROJECT_DIR$/src/simple2.java" />
         <option value="$PROJECT_DIR$/src/Simple2.java" />
         <option value="$PROJECT_DIR$/src/ButtonExample.java" />
+        <option value="$PROJECT_DIR$/src/ButtonExample_2.java" />
       </list>
     </option>
   </component>
@@ -80,8 +95,9 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="953" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="767" />
+    <option name="y" value="42" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
   </component>
@@ -114,7 +130,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552897881184" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552898808303" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
@@ -134,9 +150,16 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ButtonExample">
+  <component name="RunManager" selected="Application.ButtonExample_2">
     <configuration name="ButtonExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ButtonExample" />
+      <module name="ContactList" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ButtonExample_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ButtonExample_2" />
       <module name="ContactList" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -168,9 +191,11 @@
       <item itemvalue="Application.FirstSwingExample" />
       <item itemvalue="Application.Simple" />
       <item itemvalue="Application.ButtonExample" />
+      <item itemvalue="Application.ButtonExample_2" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ButtonExample_2" />
         <item itemvalue="Application.ButtonExample" />
         <item itemvalue="Application.Simple" />
         <item itemvalue="Application.FirstSwingExample" />
@@ -193,7 +218,8 @@
       <workItem from="1552751364341" duration="893000" />
       <workItem from="1552755036266" duration="2554000" />
       <workItem from="1552759201332" duration="281000" />
-      <workItem from="1552896974843" duration="844000" />
+      <workItem from="1552896974843" duration="1795000" />
+      <workItem from="1552978053832" duration="203000" />
     </task>
     <task id="LOCAL-00001" summary="committest1">
       <created>1552757479522</created>
@@ -209,17 +235,24 @@
       <option name="project" value="LOCAL" />
       <updated>1552897474158</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="committest1">
+      <created>1552897903602</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1552897903602</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9292000" />
+    <option name="totallyTimeSpent" value="10243000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="953" y="0" width="974" height="1047" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3938731" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19616205" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -236,7 +269,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49840087" weight="0.32976446" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50328225" side_tool="true" visible="true" weight="0.32932165" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50328225" side_tool="true" visible="true" weight="0.3261105" />
       <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.4989339" weight="0.32976446" />
       <window_info anchor="bottom" id="Database Changes" order="11" />
       <window_info anchor="bottom" id="Version Control" order="12" sideWeight="0.4989339" weight="0.32976446" />
@@ -282,8 +315,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ButtonExample.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        <state relative-caret-position="136">
+          <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ButtonExample_2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#441#442#0" expanded="true" />
+            <element signature="e#494#495#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
